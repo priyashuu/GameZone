@@ -1,7 +1,7 @@
 # name: Pull Request Validation
 
 # on:
-#   pull_request_target:
+#   pull_request_target:main
 #     types:
 #       - opened
 #       - synchronize
